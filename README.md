@@ -1,5 +1,5 @@
 # King County House Price Prediction
-![Realtor Logo](https://github.com/avithekkc/P2-King-County-Housing-Price-Prediction/blob/main/images/header.jpg?raw=true)
+![Realtor Logo](https://github.com/avithekkc/P2-King-County-Housing-Price-Prediction/blob/main/images/header.jpeg?raw=true)
 ## Overview
 Be Realty is a Real Estate company looking to adopt a data-driven approach in choosing the best house and giving the best price estimate to their client based on location and features of the house they are looking for.
 
