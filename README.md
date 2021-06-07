@@ -11,13 +11,13 @@ People at Be Realty are really good at getting the best deal possible for their 
 ## Data
 Data was obtained from [Kaggle ](https://www.kaggle.com/harlfoxem/housesalesprediction)
 
-## Process
+## OSMEN Process
 
- 1. Obtaining Data
- 2. Data Cleaning
- 3. Exploratory Data Analysis
- 4. Modeling
- 5. Interpretion
+ 1. Obtaining data
+ 2. Scrubbing data
+ 3. Exploring data
+ 4. Modeling data
+ 5. Interpreting results
 
 ## FINDINGS
 ### Which Zipcodes (Location) has the Highest Average Home Price ?
